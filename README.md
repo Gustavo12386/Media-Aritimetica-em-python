@@ -1,4 +1,6 @@
 # Media-Aritimetica-em-python
+
+
 while True:
     print()
     num_1 = input('Digite um numero')
