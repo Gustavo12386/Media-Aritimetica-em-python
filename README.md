@@ -7,7 +7,6 @@ while True:
     num_2 = input('Digite outro numero')
     operador = input('Digite um operador')
     sair = input('Deseja sair? [s]im ou [n]ão:')
-
     if sair == 's':
      break
     if not num_1.isnumeric() or not num_2.isnumeric():
