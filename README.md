@@ -1,6 +1,4 @@
 # Media-Aritimetica-em-python
-
-
 while True:
     print()
     num_1 = input('Digite um numero')
@@ -14,7 +12,6 @@ while True:
        continue
     num_1 = int(num_1)
     num_2 = int(num_2)
-
     if operador == '+':
         print(num_1 + num_2)
     elif operador == '-':
